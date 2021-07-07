@@ -5,3 +5,5 @@
 [Medieval](medieval)
 [Unrickroll](un)
 [Wii](wii)
+[Cat](cat)
+[Lego](lego)
