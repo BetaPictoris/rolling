@@ -7,3 +7,4 @@
 [Wii](wii)
 [Cat](cat)
 [Lego](lego)
+[Lofi](lofi)
