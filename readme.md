@@ -1,5 +1,4 @@
-# All the Rick Rolls you could want
-## List comming soon.
+# All the Rick Rolls you could want (I still need more though).
 [Classic](classic)
 [Japanese](jp)
 [Kermit](kermit)
